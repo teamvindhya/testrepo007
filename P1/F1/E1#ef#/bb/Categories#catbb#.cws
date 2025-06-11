@@ -1,0 +1,19 @@
+
+<CategoryBuildingBlock
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.entity.buildingblocks.category.CategoryBuildingBlock"
+	typeVersion="B6CBCE49-F85B-45A0-B1F3-CC4DE24FDDD0"
+	RuntimeDocumentID="F8E4E394-416A-A1F0-91A8-ADF3DA558874">
+	<DocumentID>F8E4E394-416A-A1F0-91A8-ADF3DA554874</DocumentID>
+	<Name>Categories</Name>
+	<Description>Categories</Description>
+	<CreatedBy>sysadmin</CreatedBy>
+	<CreationDate>2025-06-11T09:05:27.712</CreationDate>
+	<Notes/>
+	<Categories/>
+	<Entity>
+		<uri
+			id="F8E4E394-416A-A1F0-91A8-ADF3DA5AC874"
+		/>
+	</Entity>
+</CategoryBuildingBlock>
